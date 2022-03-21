@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyQH_Mobile_Test", "MyQH_Mobile_Test\MyQH_Mobile_Test.csproj", "{603DF87D-7443-499C-A4AA-15B7AA613064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603DF87D-7443-499C-A4AA-15B7AA613064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603DF87D-7443-499C-A4AA-15B7AA613064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603DF87D-7443-499C-A4AA-15B7AA613064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603DF87D-7443-499C-A4AA-15B7AA613064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251CE184-DCF5-4E05-A303-F631A30FAD90}
+	EndGlobalSection
+EndGlobal
